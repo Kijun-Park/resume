@@ -44,7 +44,7 @@
 <span>skinny pig 로그인 페이지 모바일 뷰 디자인 수정</span>
 <br/>
 <br/>
-<img width="300" src="https://user-images.githubusercontent.com/35815788/88780418-f0fb8780-d1c5-11ea-9c78-0be2c83ed260.png" alt="portfolioImg">
+<img width="300" src="https://user-images.githubusercontent.com/35815788/88780446-f8229580-d1c5-11ea-909a-c3b14baa9e8b.png" alt="portfolioImg">
 <br/>
 <br/>
 <span><strong>bignjoy 제품 상세 페이지 디자인 수정 (php, css)</strong></span></br>
@@ -58,4 +58,4 @@
 <span>특정 해상도에 반응형 디자인 적용요청에 따라 디자인 수정</span>
 <br/>
 <br/>
-<img width="300" src="https://user-images.githubusercontent.com/35815788/88780446-f8229580-d1c5-11ea-909a-c3b14baa9e8b.png" alt="portfolioImg">
+<img width="300" src="https://user-images.githubusercontent.com/35815788/88780418-f0fb8780-d1c5-11ea-9c78-0be2c83ed260.png" alt="portfolioImg">
