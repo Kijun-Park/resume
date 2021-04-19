@@ -9,11 +9,17 @@
 </ul>
 
 <p>
-  안녕하세요.</br>
-  간단한 디자인 수정부터 복잡한 애니메이션, 동적인 액션 수정까지 각종 css고급기술들을 이용하여 수정 가능합니다.</br>
-  html, css, JS를 이용한 웹페이지 퍼블리싱과 react를 이용한 모던 웹개발 전문입니다.
+서울 강남구 신사동에 위치한 영상처리 관련 스타트업에서 풀스택개발자로 근무하고 있습니다.
+
+-사용중인 기술 스택<br/>
+프론트: Vue js, React js, Html, Css, Sass, jQuery<br/>
+백엔드: Java, Node js, Php, Kotlin, Code Igniter, Laravel, <br/>Spring Boot<br/>
+DB: MySQL, Maria db, Mssql, MongoDB, Redis<br/>
+협업툴: Slack, Jira, Gsuite, Notion, Github, Google workspace<br/>
+데브옵스: AWS, AZURE, NICE PAY, KAKAO(로그인), NAVER(로그인), GOOGLE(로그인)
+
 </p>
-<p>경력 : 웹 개발 1년</p>
+<p>경력 : 웹 개발 1년 10개월</p>
 
 <h3>작업물</h3>
 <span><strong>비디오 몬스터 웹페이지 보조개발 (css, js, react)</strong></span>
