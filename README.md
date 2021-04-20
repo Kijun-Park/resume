@@ -28,7 +28,7 @@ DB: MySQL, Maria db, Mssql, MongoDB, Redis<br/>
 <img width="1672" alt="videoMonster-landing" src="https://user-images.githubusercontent.com/35815788/86465359-6a8d8a80-bd6c-11ea-8ebd-0427ca3062c7.png"></br>
 <img width="1576" alt="videoMonster-editor" src="https://user-images.githubusercontent.com/35815788/86465357-695c5d80-bd6c-11ea-9f32-49f1113e387c.png">
 <p>소소한 퍼블리싱 업무부터 시작해 비디오 편집창 기능 수정, 각종 api연동 업무를 맡았습니다.
-프론트는 react.js가 이용돼었습니다.</p>
+프론트는 react.js가 이용되었습니다.</p>
 <br/>
 <br/>
 <span><strong>비디오 몬스터 모바일 페이지 퍼블리싱 & 기능연동 (css, js, react, nodeJs)</strong></span>
@@ -97,5 +97,34 @@ ClipReport사와 전화통화로 내부에 스크립트를 작성하여 해결�
 서버는 nodejs + express를 사용했습니다.
 컨텐츠 업로드는 multer모듈을 사용하였으며,
 컨텐츠 압축에는 node-zip 모듈을 사용하였습니다.
+
+</p>
+<br/>
+<br/>
+<span><strong>더블저축은행 대출신청 관리 CMS 개발</strong></span></br>
+<br/>
+<br/>
+<img width="300" src="https://user-images.githubusercontent.com/35815788/115372949-5c7afe80-a206-11eb-95f6-b82130272e7d.png" alt="portfolioImg">
+<img width="300" src="https://user-images.githubusercontent.com/35815788/115372970-5f75ef00-a206-11eb-819c-bc951cb0e029.png" alt="portfolioImg">
+<img width="300" src="https://user-images.githubusercontent.com/35815788/115372979-60a71c00-a206-11eb-95e6-fb03e185d26c.png" alt="portfolioImg">
+<img width="300" src="https://user-images.githubusercontent.com/35815788/115374387-c1832400-a207-11eb-82ff-f518ab1224ce.png" alt="portfolioImg">
+<img width="300" src="https://user-images.githubusercontent.com/35815788/115374391-c21bba80-a207-11eb-82c3-5eea7fdc39cc.png" alt="portfolioImg">
+<img width="300" src="https://user-images.githubusercontent.com/35815788/115374393-c34ce780-a207-11eb-8809-bd4acf4a11ea.png" alt="portfolioImg">
+<img width="300" src="https://user-images.githubusercontent.com/35815788/115374396-c3e57e00-a207-11eb-8744-4eba59342ae9.png" alt="portfolioImg">
+<p>
+고객들이 신청한 대출신청을 승인하거나, 보류, 부결하고 메모를 남기는 등 대출신청 관련한 정보를 관리하는 cms입니다.
+
+고객의 본인확인을 위해 NICE본인인증을 연동했습니다.
+본인인증 후 고객이 주민번호를 입력하면 주민번호를 검사하는 api도 연동했습니다.
+
+cms 메인화면에는 대출신청을 승인하거나, 거부하는등의 관리가 가능합니다.
+고객이 신청당시에 동의했던 동의서를 출력할 수 있습니다.
+
+고객이 동의한 동의서의 서명란, 날짜에는 자동으로 동의당시의 날짜와 고객의 이름이 입력되어 출력됩니다.
+클라이언트에게 날짜와 서명란의 id를 전달하고 클라이언트가 그 각각의 id를 넣어 동의서파일을 업로드 하여 그 id의 text를 바꾸는 식으로 구현하였습니다.
+
+동의서 관리가 가장 힘든 부분이였는데,
+동의서를 업로드하면 로컬서버상에 저장하고, 저장된 위치를 db에 저장하는 식으로 구현했습니다.
+동의서는 업로드 될때마다 versioning되도록 하였습니다.
 
 </p>
