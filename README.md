@@ -13,8 +13,8 @@
 
 -사용중인 기술 스택<br/>
 프론트: React js, Html, Css, Sass, jQuery, jsp<br/>
-백엔드: Java, Node js, Php, Kotlin, Code Igniter, Laravel, Spring Boot<br/>
-DB: MySQL, Maria db, Mssql, MongoDB, Redis<br/>
+백엔드: Java, Node js, Spring Boot<br/>
+DB: MySQL, Maria db, MongoDB<br/>
 협업툴: Slack, Jira, Gsuite, Notion, Github, Google workspace<br/>
 데브옵스: AWS, AZURE, NICE PAY, KAKAO(로그인), NAVER(로그인), GOOGLE(로그인)
 
