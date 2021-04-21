@@ -12,7 +12,7 @@
 서울 강남구 신사동에 위치한 영상처리 관련 스타트업에서 풀스택개발자로 근무하고 있습니다.
 
 -사용중인 기술 스택<br/>
-프론트: Vue js, React js, Html, Css, Sass, jQuery<br/>
+프론트: React js, Html, Css, Sass, jQuery, jsp<br/>
 백엔드: Java, Node js, Php, Kotlin, Code Igniter, Laravel, Spring Boot<br/>
 DB: MySQL, Maria db, Mssql, MongoDB, Redis<br/>
 협업툴: Slack, Jira, Gsuite, Notion, Github, Google workspace<br/>
