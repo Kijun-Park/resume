@@ -19,7 +19,7 @@ DB: MySQL, Maria db, MongoDB<br/>
 데브옵스: AWS, AZURE, NICE PAY, KAKAO(로그인), NAVER(로그인), GOOGLE(로그인)
 
 </p>
-<p>경력 : 웹 개발 1년 10개월</p>
+<p>경력 : 웹 개발 2년(프론트, 백엔드)</p>
 
 <h3>작업물</h3>
 <span><strong>비디오 몬스터 웹페이지 보조개발 (css, js, react)</strong></span>
